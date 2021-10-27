@@ -1,6 +1,7 @@
 # tasks_flutter
 
 Tasks with Flutter
+PoC for Flutter technology
 
 ## Getting Started
 
